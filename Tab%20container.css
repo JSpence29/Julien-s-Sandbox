@@ -1,0 +1,8 @@
+.dp-tabs.ui-tabs .ui-tabs-nav li{
+     width: 100%; 
+}
+.dp-tabs.ui-tabs ul{
+    justify-content: space-between;
+    display: flex;
+}
+
